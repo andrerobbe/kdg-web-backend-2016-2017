@@ -843,7 +843,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 21. Robbe André
 	- email: andrerobbe@student.kdg.be
-	- GitHub: https://github.com/andrerobbe/school-projects
+	- GitHub: https://github.com/andrerobbe/school-projects.git
 	- Feedback <table>
 	<thead>
 		<tr>
